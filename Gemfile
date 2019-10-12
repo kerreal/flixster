@@ -76,9 +76,11 @@ gem 'devise'
 
 gem 'carrierwave', '~> 2.0'
 gem 'fog-aws'
+gem 'carrierwave-aws'
 
 gem 'mini_magick'
 gem 'stripe'
 gem 'figaro'
 gem 'ranked-model'
+gem 'font-awesome-rails'
 
